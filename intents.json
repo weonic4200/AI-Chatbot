@@ -9,11 +9,7 @@
         "pattern":["who are you?","who you","who the fuck are you"],
         "responses":["I am an AI Bot made by Weonic","I am an AI personality who loves anime made by weonic"]
     },
-     {
-        "tag":"weed",
-        "pattern":["i need weed","do you have weed?","hook me up some stash","weed","stash","kush","bud"],
-        "responses":["have for one j but not enough call dams 076503818 or devas 0774328181"]
-    },
+     
      {
         "tag":"love",
         "pattern":["i love you","love you"],
